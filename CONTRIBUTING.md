@@ -1,3 +1,5 @@
+# Contributing
+
 *How can I help?*
 
 1. **Write code.** There is [a lot which needs to be done](https://github.com/dictation-toolbox/caster/issues). If you can program in Python, please write some code. Note that all pull requests should be sent to the "develop" branch (see the [Caster GitHub Workflow](#caster-github-workflow) section below). There are also a lot of [open pull requests](https://github.com/dictation-toolbox/Caster/pulls) that need changes, testing, or a close review.
